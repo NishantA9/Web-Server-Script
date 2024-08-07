@@ -1,0 +1,19 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Flask specific
+instance/
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
